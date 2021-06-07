@@ -9,8 +9,14 @@
 - [GitHub Cards](https://github-cards-viewer.netlify.app) - A website displaying user profiles as cards
 - [Team Builder](https://team-builder-app.netlify.app/) - A web app that allows you to add details about your team
 
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislauyc&layout=compact&langs_count=10)](https://github.com/chrislauyc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislauyc&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=chrislauyc&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/chris-lau-0492a6119/)
+
 <!--
 **chrislauyc/chrislauyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
