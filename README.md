@@ -4,7 +4,7 @@
 🌱 My current focus is in frontend web development
  
 ### Deployed Projects
-- [Anywhere Fitness](anywhere-fitness-club.vercel.app) - A platform for clients to register and health coaches to create fitness classes anywhere -- workout does not need to be in a gym
+- [Anywhere Fitness](https://anywhere-fitness-club.vercel.app) - A platform for clients to register and health coaches to create fitness classes anywhere -- workout does not need to be in a gym
 - [Sleep Tracker](https://appsleeptracker.netlify.app) - A landing page for signing up for an account
 - [GitHub Cards](https://github-cards-viewer.netlify.app) - A website displaying user profiles as cards
 - [Team Builder](https://team-builder-app.netlify.app/) - A web app that allows you to add details about your team
