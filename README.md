@@ -1,5 +1,5 @@
 ### About Me
-⚡ I love web development, math, and computer science
+⚡ I love math and computer science
 
 🌱 My current focus is in frontend web development
  
