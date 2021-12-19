@@ -1,13 +1,14 @@
 ### About Me
-⚡ I love math and computer science
+⚡ Scientist turned software engineer. Passionate about transforming industries with technology. Loves collaborating with programmers who share the same passion. Always learning something new.
 
-🌱 My current focus is in frontend web development
  
-### Deployed Projects
+### Full Stack Developer Experience
+- [Protect Our Winters. UK](https://protectourwinters.uk) - Volunteer at a non-profit organization. Developing a CMS with Next.JS and Strapi.JS.
+- [Sauti Marketplace](https://github.com/webpt-amazing-buildweek/front_end) - An online commerce platform designed for African shop owners to sell their products
+- [Secret Family Recipes](https://github.com/chrislauyc/secret-family-recipes-backend) - A backend application for users to store and preserve their family recipes
 - [Anywhere Fitness](https://anywhere-fitness-club.vercel.app) - A platform for clients to register and health coaches to create fitness classes anywhere -- workout does not need to be in a gym
-- [Sleep Tracker](https://appsleeptracker.netlify.app) - A landing page for signing up for an account
-- [GitHub Cards](https://github-cards-viewer.netlify.app) - A website displaying user profiles as cards
-- [Team Builder](https://team-builder-app.netlify.app/) - A web app that allows you to add details about your team
+- [GitHub Cards](https://github.com/chrislauyc/github-user-card) - A website displaying user profiles as cards
+- [Team Builder](https://github.com/chrislauyc/team-builder-app) - A web app that allows you to add details about your team
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislauyc&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
