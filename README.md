@@ -10,10 +10,6 @@
 - [GitHub Cards](https://github.com/chrislauyc/github-user-card) - A website displaying user profiles as cards
 - [Team Builder](https://github.com/chrislauyc/team-builder-app) - A web app that allows you to add details about your team
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislauyc&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=chrislauyc&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/chris-lau-0492a6119/)
